@@ -1,0 +1,14 @@
+[package]
+name = "my_converter_app"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+# Webアプリ用フレームワーク
+dioxus = { version = "0.5", features = ["desktop"] }
+# グラフ描画用
+plotly = "0.8" 
+# データ管理用 (PythonのPandasのような役割)
+polars = { version = "0.36", features = ["lazy", "temporal"] } 
+# 日付操作用
+chrono = "0.4"
