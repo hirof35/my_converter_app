@@ -2,7 +2,7 @@
 
 Rust とクロスプラットフォームGUIフレームワーク **Dioxus** を使用して開発された、デスクトップ向けの高性能な単位変換アプリケーションです。
 変換した履歴をリアルタイムで保存し、データの永続化（CSV管理）に対応しています。
-
+<img width="1918" height="1140" alt="スクリーンショット 2026-05-18 065559" src="https://github.com/user-attachments/assets/a0024445-ee62-421f-aee5-9e8254d31984" />
 ## ✨ 主な機能
 
 - **型安全で高速な単位変換**: Rustの強力な型システムによる、安全で高速な計算処理。
@@ -51,4 +51,4 @@ my_converter_app/
 
 📝 ライセンス
 本プロジェクトは MIT ライセンスの下で公開されています。
-<img width="1918" height="1140" alt="スクリーンショット 2026-05-18 065559" src="https://github.com/user-attachments/assets/a0024445-ee62-421f-aee5-9e8254d31984" />
+
